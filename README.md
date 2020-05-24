@@ -1,3 +1,3 @@
-#Codeforces problems set done by me
+#Problems set done by me
 
 #Just for reference
